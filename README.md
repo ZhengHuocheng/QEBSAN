@@ -1,6 +1,6 @@
 #QEBSAN
-量子融合策略下声音和文本的双模态情感分析模型
-1、Dataset:样本数据集合,原始视频由https://github.com/Himanshu-sudo/MUStARD-dataset提供，
+量子融合策略下声音和文本的双模态情感分析模型  
+1、Dataset:样本数据集合,原始视频由https://github.com/Himanshu-sudo/MUStARD-dataset 提供，
         下载链接:https://drive.google.com/file/d/1i9ixalVcXskA5_BkNnbR60sqJqvGyi6E/view  
 2、DataCollect:从原始视频中提取音频等信息。  
 3、FeatureExtract:从模态数据中提取文本、音频模态特征数据。  
