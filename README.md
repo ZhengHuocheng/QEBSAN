@@ -19,7 +19,7 @@
 ## 可表达性  
 ![expressibility](https://github.com/ZhengHuocheng/QEBSAN/blob/main/Picture/expressibility.png)
 ## 纠缠能力
- 
+![entanglement](https://github.com/ZhengHuocheng/QEBSAN/blob/main/Picture/entanglement.png)
 ## 交互页面
 ![interface](https://github.com/ZhengHuocheng/QEBSAN/blob/main/Picture/interface2.png)
 
